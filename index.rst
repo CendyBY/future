@@ -40,6 +40,7 @@ Contents:
    detail
    research
    other
+   people
    useweb
 
 

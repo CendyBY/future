@@ -16,9 +16,9 @@
 	
 	| **期货爆仓三部曲**
 	
-	*逆势
-	*死扛
-	*重仓
+	* 逆势
+	* 死扛
+	* 重仓
 
 官方网站
 --------------
@@ -36,7 +36,10 @@ Contents:
 
    history
    consignment
+   industry
    detail
+   research
    other
+   useweb
 
 

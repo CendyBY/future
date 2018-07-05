@@ -28,6 +28,11 @@
 
 -  `新疆天气 <http://www.xjqx.cn>`__	
 
+外盘行情
+-------------------
+
+-  `生意社 <https://cn.investing.com/commodities/us-cotton-no.2-streaming-chart>`__	
+
 
 微信号
 -------------------

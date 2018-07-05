@@ -31,7 +31,7 @@
 外盘行情
 -------------------
 
--  `生意社 <https://cn.investing.com/commodities/us-cotton-no.2-streaming-chart>`__	
+-  `外盘棉花行情 <https://cn.investing.com/commodities/us-cotton-no.2-streaming-chart>`__	
 
 
 微信号

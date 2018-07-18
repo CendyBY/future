@@ -28,12 +28,12 @@ http://www.czce.com.cn/portal/sspz/mh/A090206index_1.htm
 座右铭
 --------------
 
-独立思考，深入了解
+**独立思考，深入了解**
 
 思维导图
 --------------
 
-.. image:: 棉花期货.svg
+.. image:: /photos/棉花期货.svg
 
 文档目录
 --------------

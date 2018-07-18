@@ -12,6 +12,12 @@
 -  `同花顺财经 <http://stock.10jqka.com.cn/getListPage.php?listid=cl_008002006>`__
 -  `雪球 <https://xueqiu.com/S/BAL>`__	
 
+产业分析
+-------------------
+
+-  `扑克财经 <http://www.puoke.com/sns/index.php>`__	
+-  `农产品期货网 <http://www.ncpqh.com/channel/getChannel?id=4>`__	
+
 仓单数据
 -------------------
 

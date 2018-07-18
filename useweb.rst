@@ -39,7 +39,7 @@
 -  `外盘棉花行情 <https://cn.investing.com/commodities/us-cotton-no.2-streaming-chart>`__	
 
 
-微信号
+微信
 -------------------
 
 -	中储棉信息中心

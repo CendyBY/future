@@ -48,6 +48,7 @@ Contents:
    industry
    detail
    research
+   compare
    other
    people
    useweb
